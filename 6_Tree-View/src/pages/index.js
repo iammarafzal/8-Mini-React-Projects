@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Profile } from './Profile'
+export { default as Details } from './Details'
+export { default as Location } from './Location'
+export { default as EditProfile } from './EditProfile'
+export { default as Settings } from './Settings'
+export { default as Preferences } from './Preferences'
+export { default as Theme } from './Theme'
